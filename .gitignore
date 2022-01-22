@@ -1,0 +1,25 @@
+# package directories
+node_modules
+docker
+jspm_packages
+
+bin
+
+# Serverless directories
+.serverless
+
+.build
+
+.nyc_output
+
+coverage
+
+package-lock.json
+
+out-logger.json
+
+.DS_Store
+
+.aws-sam
+
+zeed

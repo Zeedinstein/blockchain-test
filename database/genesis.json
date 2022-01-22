@@ -1,0 +1,8 @@
+
+{
+    "genesis_time": "2022-01-19T00:00:00.000000000Z",
+    "chain_id": "zeedinstein-blockchain-ledger",
+    "balances": {
+        "zeedinstein": 1000000
+    }
+}
